@@ -15,7 +15,7 @@ Tank Ball Physics includes branding and logos that are integral to the overall g
 While using Tank Ball Physics, you agree not to:
 
     Engage in any behavior that violates these Terms of Service.
-    Use cheats, exploits, automation software, bots, hacks, mods, or any unauthorized third-party software designed to modify or interfere with the game experience.
+    Use cheats, exploits, automation software, bots, hacks, or any unauthorized third-party software designed to interfere with the game experience.
     Harass, threaten, or impersonate other users.
 
 5. Termination
